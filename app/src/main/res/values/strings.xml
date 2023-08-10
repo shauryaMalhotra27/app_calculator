@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">app_calculator</string>
+    <string name="intentBox">text appear here</string>
+    <string name="btnzero">0</string>
+    <string name="btnone">1</string>
+    <string name="btntwo">2</string>
+    <string name="btnthree">3</string>
+    <string name="btnfour">4</string>
+    <string name="btnfive">5</string>
+    <string name="btnsix">6</string>
+    <string name="btnseven">7</string>
+    <string name="btneight">8</string>
+    <string name="btnnine">9</string>
+    <string name="btnclear">C</string>
+    <string name="btndot">.</string>
+    <string name="btnadd">+</string>
+    <string name="btnminus">─</string>
+    <string name="btndiv">÷</string>
+    <string name="btnmul">×</string>
+    <string name="btncalcualte">calculate</string>
+    <string name="btnback">⌫</string>
+
+
+
+</resources>
